@@ -51,7 +51,7 @@ The place is real: Curiosity's **boxwork** region on Mount Sharp, in Gale crater
 <table>
 <tr>
 <td width="50%"><img src="docs/screenshots/p-plan.jpg" alt="Planner map with Curiosity's path, the planned route and the route profile"><br><sub><b>Plan.</b> White dotted line: Curiosity's real path. Solid white: our route. The route profile shows the reserve never drops below the 20% rule.</sub></td>
-<td width="50%"><img src="docs/screenshots/s2.jpg" alt="Two astronauts walking the route in 3D"><br><sub><b>Walk-home map in 3D.</b> Lines on the ground are 10, 20 and 30 minutes from the habitat. "Tether holds 51%" is the worst reserve on the whole walk.</sub></td>
+<td width="50%"><img src="docs/screenshots/s2.jpg" alt="Two astronauts walking the route in 3D"><br><sub><b>Walk-home map in 3D.</b> Lines on the ground are 10, 20 and 30 minutes from the habitat. "51%" is the worst reserve on the whole walk.</sub></td>
 </tr>
 <tr>
 <td><img src="docs/screenshots/p-storm.jpg" alt="Storm drill map"><br><sub><b>Storm drill.</b> Green: you can reach the habitat before the particles arrive.</sub></td>
@@ -179,7 +179,7 @@ Full bibliography with DOIs: [`docs/SOURCES.md`](docs/SOURCES.md) · Assumptions
 
 ## Credits
 
-- **TETHER** planning engine, radiation validation, autopilot, siting, chance of getting home, turn-back advisor, sand AI, CAPCOM and phone AR: [GharsallahDev](https://github.com/GharsallahDev)
+- Planning engine, radiation validation, autopilot, siting, chance of getting home, turn-back advisor, sand AI, CAPCOM and phone AR: [GharsallahDev](https://github.com/GharsallahDev)
 - **3D story scenes**, crew-down drill, suit test and the 1,298-stop radiation check: Chedly
 - **Marswalk prototype** (THEMIS sand and rock, Mars clock, atlas, first-person walk) and Rocky's integration and design: [OuhabYouceff](https://github.com/OuhabYouceff)
 - Built with help from Claude (Anthropic) for code, research and drafting; disclosed in the app.
